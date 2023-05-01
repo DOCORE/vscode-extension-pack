@@ -1,0 +1,15 @@
+{
+  "name": "launchland-ruby-pack",
+  "displayName": "launchland/ruby-pack",
+  "description": "ruby language extension pack",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
