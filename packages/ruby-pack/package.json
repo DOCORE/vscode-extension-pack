@@ -1,7 +1,7 @@
 {
-	"name": "launchland-ruby-pack",
-	"displayName": "launchland/ruby-pack",
-	"description": "ruby language extension pack (launchland edition)",
+	"name": "docore-ruby-pack",
+	"displayName": "docore/ruby-pack",
+	"description": "ruby language extension pack (docore edition)",
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.77.0"
@@ -11,19 +11,19 @@
 		"Language Packs"
 	],
 	"author": {
-		"name": "launchland",
-		"email": "launchland@gmail.com",
-		"url": "https://launchland.io"
+		"name": "docore",
+		"email": "docore@gmail.com"
 	},
-	"contributors": [
+	"contributes": [
 		{
 			"name": "mikoloism",
 			"email": "mikoloism@gmail.com"
 		}
 	],
+	"publisher": "docore",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/launchland/vscode-extension-pack"
+		"url": "https://github.com/docore/vscode-extension-pack"
 	},
 	"extensionPack": [
 		"rebornix.ruby",
