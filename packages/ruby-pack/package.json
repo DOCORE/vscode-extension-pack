@@ -1,15 +1,37 @@
 {
-  "name": "launchland-ruby-pack",
-  "displayName": "launchland/ruby-pack",
-  "description": "ruby language extension pack",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.77.0"
-  },
-  "categories": [
-    "Extension Packs"
-  ],
-  "extensionPack": [ 
-    "publisher.extensionName"
-  ]
+	"name": "launchland-ruby-pack",
+	"displayName": "launchland/ruby-pack",
+	"description": "ruby language extension pack (launchland edition)",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.77.0"
+	},
+	"categories": [
+		"Extension Packs",
+		"Language Packs"
+	],
+	"author": {
+		"name": "launchland",
+		"email": "launchland@gmail.com",
+		"url": "https://launchland.io"
+	},
+	"icon": "assets/images/ruby-pack.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/launchland/vscode-extension-pack"
+	},
+	"extensionPack": [
+		"rebornix.ruby",
+		"Shopify.ruby-lsp",
+		"castwide.solargraph",
+		"hoovercj.ruby-linter",
+		"misogi.ruby-rubocop",
+		"mbessey.vscode-rufo",
+		"vortizhe.simple-ruby-erb",
+		"testdouble.vscode-standard-ruby",
+		"KoichiSasada.vscode-rdbg",
+		"wingrunr21.vscode-ruby",
+		"fnando.ruby",
+		"kaiwood.endwise"
+	]
 }
