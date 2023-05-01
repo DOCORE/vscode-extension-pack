@@ -21,7 +21,7 @@
 			"email": "mikoloism@gmail.com"
 		}
 	],
-	"icon": "https://github.com/launchland/vscode-extension-pack/blob/main/assets/images/ruby-pack.png",
+	"icon": "../../assets/images/ruby-pack.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/launchland/vscode-extension-pack"
