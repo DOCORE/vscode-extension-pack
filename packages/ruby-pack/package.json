@@ -1,8 +1,20 @@
 {
-	"name": "docore-ruby-pack",
+	"name": "@docore/ruby-pack",
 	"displayName": "docore/ruby-pack",
 	"description": "ruby language extension pack (docore edition)",
 	"version": "1.0.0",
+	"license": "MIT",
+	"keywords": [
+		"pack",
+		"ruby",
+		"docore",
+		"mikoloism",
+		"ruby-pack"
+	],
+	"galleryBanner": {
+		"color": "#264653",
+		"theme": "dark"
+	},
 	"engines": {
 		"vscode": "^1.77.0"
 	},
@@ -10,10 +22,6 @@
 		"Extension Packs",
 		"Language Packs"
 	],
-	"author": {
-		"name": "docore",
-		"email": "docore@gmail.com"
-	},
 	"contributes": [
 		{
 			"name": "mikoloism",
