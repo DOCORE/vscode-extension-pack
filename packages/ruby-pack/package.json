@@ -1,5 +1,5 @@
 {
-	"name": "@docore/ruby-pack",
+	"name": "docore-ruby-pack",
 	"displayName": "docore/ruby-pack",
 	"description": "ruby language extension pack (docore edition)",
 	"version": "1.0.0",
