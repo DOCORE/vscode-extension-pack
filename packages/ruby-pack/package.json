@@ -15,6 +15,12 @@
 		"email": "launchland@gmail.com",
 		"url": "https://launchland.io"
 	},
+	"contributors": [
+		{
+			"name": "mikoloism",
+			"email": "mikoloism@gmail.com"
+		}
+	],
 	"icon": "assets/images/ruby-pack.png",
 	"repository": {
 		"type": "git",
