@@ -1,15 +1,33 @@
 {
-  "name": "lunchland-rust-pack",
-  "displayName": "lunchland/rust-pack",
-  "description": "rust language extension pack",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.77.0"
-  },
-  "categories": [
-    "Extension Packs"
-  ],
-  "extensionPack": [ 
-    "publisher.extensionName"
-  ]
+	"name": "launchland-rust-pack",
+	"displayName": "launchland/rust-pack",
+	"description": "rust language extension pack (launchland edition)",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.77.0"
+	},
+	"categories": [
+		"Extension Packs",
+		"Language Packs"
+	],
+	"author": {
+		"name": "launchland",
+		"email": "launchland@gmail.com",
+		"url": "https://launchland.io"
+	},
+	"icon": "assets/images/rust-pack.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/launchland/vscode-extension-pack"
+	},
+	"extensionPack": [
+		"dustypomerleau.rust-syntax",
+		"rust-lang.rust-analyzer",
+		"panicbit.cargo",
+		"bungcip.better-toml",
+		"tamasfe.even-better-toml",
+		"serayuzgur.crates",
+		"belfz.search-crates-io",
+		"vadimcn.vscode-lldb"
+	]
 }
