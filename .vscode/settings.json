@@ -14,9 +14,15 @@
 	"conventionalCommits.scopes": [
 		"assets",
 		"packages",
+
+		"ionic-pack",
+		"markdown-pack",
+		"python-pack",
 		"ruby-pack",
 		"rust-pack",
-		"python-pack",
+		"shell-pack",
+		"vue-pack",
+
 		"global-pack",
 		"common-pack",
 		"vscode"
