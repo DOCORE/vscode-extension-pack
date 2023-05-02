@@ -18,6 +18,7 @@
 	"extensionPack": [
 		"Ionic.ionic",
 		"ionic-preview.ionic-preview",
-		"adeleyeayodeji.ionic-react-snippets"
+		"adeleyeayodeji.ionic-react-snippets",
+		"msjsdiag.cordova-tools"
 	]
 }
