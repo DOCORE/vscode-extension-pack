@@ -1,0 +1,22 @@
+{
+	"name": "docore-shell-pack",
+	"displayName": "docore/shell-pack",
+	"description": "shell language extension pack (docore edition)",
+	"version": "1.0.0",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.77.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"publisher": "docore",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/docore/vscode-extension-pack"
+	},
+	"extensionPack": [
+		"rogalmic.bash-debug",
+		"mads-hartmann.bash-ide-vscode"
+	]
+}
