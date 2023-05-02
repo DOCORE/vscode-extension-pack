@@ -17,6 +17,7 @@
 
 		"ionic-pack",
 		"markdown-pack",
+		"next-pack",
 		"python-pack",
 		"ruby-pack",
 		"rust-pack",
