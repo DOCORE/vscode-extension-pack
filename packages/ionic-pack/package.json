@@ -1,0 +1,23 @@
+{
+	"name": "docore-ionic-pack",
+	"displayName": "docore/ionic-pack",
+	"description": "ionic language extension pack (docore edition)",
+	"version": "1.0.0",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.77.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"publisher": "docore",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/docore/vscode-extension-pack"
+	},
+	"extensionPack": [
+		"Ionic.ionic",
+		"ionic-preview.ionic-preview",
+		"adeleyeayodeji.ionic-react-snippets"
+	]
+}
