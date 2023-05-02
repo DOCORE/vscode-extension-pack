@@ -1,0 +1,32 @@
+{
+	"name": "docore-front-pack",
+	"displayName": "docore/front-pack",
+	"description": "frontend extension pack (docore edition)",
+	"version": "1.0.0",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.77.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"publisher": "docore",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/docore/vscode-extension-pack"
+	},
+	"extensionPack": [
+		"formulahendry.auto-close-tag",
+		"formulahendry.auto-rename-tag",
+		"naumovs.color-highlight",
+		"clinyong.vscode-css-modules",
+		"Tobermory.es6-string-html",
+		"Zignd.html-css-class-completion",
+		"angelorafael.jsx-html-tags",
+		"antfu.vite",
+		"bradlc.vscode-tailwindcss",
+		"Arthie.vscode-xwind",
+		"sidharthachatterjee.vscode-tailwindcss",
+		"dannyconnell.split-html-attributes"
+	]
+}
