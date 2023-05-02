@@ -1,7 +1,7 @@
 {
-	"name": "docore-next-pack",
-	"displayName": "docore/next-pack",
-	"description": "next framework extension pack (docore edition)",
+	"name": "docore-react-next-pack",
+	"displayName": "docore/react-next-pack",
+	"description": "react and next framework extension pack (docore edition)",
 	"version": "1.0.0",
 	"license": "MIT",
 	"engines": {
