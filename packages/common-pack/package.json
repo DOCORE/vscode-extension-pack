@@ -1,0 +1,40 @@
+{
+	"name": "docore-common-pack",
+	"displayName": "docore/common-pack",
+	"description": "common extension pack (docore edition)",
+	"version": "1.0.0",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.77.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"publisher": "docore",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/docore/vscode-extension-pack"
+	},
+	"extensionPack": [
+		"aliariff.auto-add-brackets",
+		"mgmcdermott.vscode-language-babel",
+		"aaron-bond.better-comments",
+		"pustelto.bracketeer",
+		"antfu.icons-carbon",
+		"streetsidesoftware.code-spell-checker",
+		"vivaxy.vscode-conventional-commits",
+		"usernamehw.errorlens",
+		"dbaeumer.vscode-eslint",
+		"PeterSchmalfeldt.explorer-exclude",
+		"antfu.file-nesting",
+		"eamodio.gitlens",
+		"ms-vscode.vscode-typescript-next",
+		"ms-vscode.js-debug-nightly",
+		"christian-kohler.path-intellisense",
+		"esbenp.prettier-vscode",
+		"kruemelkatze.vscode-dashboard",
+		"rhalaly.scope-to-this",
+		"NonSpicyBurrito.tab-nav",
+		"shardulm94.trailing-spaces"
+	]
+}
