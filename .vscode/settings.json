@@ -15,15 +15,16 @@
 		"assets",
 		"packages",
 
+		"front-pack",
 		"ionic-pack",
 		"markdown-pack",
-		"next-pack",
 		"python-pack",
+		"react-native-pack",
+		"react-next-pack",
 		"ruby-pack",
 		"rust-pack",
 		"shell-pack",
 		"vue-pack",
-
 		"global-pack",
 		"common-pack",
 		"vscode"
