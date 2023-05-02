@@ -1,0 +1,32 @@
+{
+	"name": "docore-next-pack",
+	"displayName": "docore/next-pack",
+	"description": "next framework extension pack (docore edition)",
+	"version": "1.0.0",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.77.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"publisher": "docore",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/docore/vscode-extension-pack"
+	},
+	"extensionPack": [
+		"styled-components.vscode-styled-components",
+		"willstakayama.vscode-nextjs-snippets",
+		"PulkitGangwar.next-js-react-storybook-commands",
+		"PulkitGangwar.nextjs-snippets",
+		"AvneeshAgarwal.react-nextjs-snippets",
+		"discountry.react-redux-react-router-snippets",
+		"burkeholland.simple-react-snippets",
+		"geekofer.storybook-react-snippets",
+		"infeng.vscode-react-typescript",
+		"RaudinMoreno.nextjscaffold",
+		"riccardoforina.storybook-helper",
+		"mikestead.dotenv"
+	]
+}
