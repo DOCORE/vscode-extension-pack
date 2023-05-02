@@ -1,0 +1,23 @@
+{
+	"name": "docore-vue-pack",
+	"displayName": "docore/vue-pack",
+	"description": "vue language extension pack (docore edition)",
+	"version": "1.0.0",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.77.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"publisher": "docore",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/docore/vscode-extension-pack"
+	},
+	"extensionPack": [
+		"Vue.volar",
+		"octref.vetur",
+		"Vue.vscode-typescript-vue-plugin"
+	]
+}
