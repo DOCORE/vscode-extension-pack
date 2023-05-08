@@ -2,7 +2,7 @@
 	"name": "docore-rust-pack",
 	"displayName": "docore/rust-pack",
 	"description": "rust language extension pack (docore edition)",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"engines": {
 		"vscode": "^1.77.0"
@@ -15,6 +15,7 @@
 		"type": "git",
 		"url": "https://github.com/docore/vscode-extension-pack"
 	},
+	"icon": "/assets/icon.png",
 	"extensionPack": [
 		"dustypomerleau.rust-syntax",
 		"rust-lang.rust-analyzer",
