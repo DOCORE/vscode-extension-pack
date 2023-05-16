@@ -15,3 +15,9 @@
 [rust-pack]: https://github.com/docore/vscode-extension-pack/tree/main/packages/rust-pack
 [shell-pack]: https://github.com/docore/vscode-extension-pack/tree/main/packages/shell-pack
 [vue-pack]: https://github.com/docore/vscode-extension-pack/tree/main/packages/vue-pack
+
+## Theme Collection
+
+-   [/ziba-theme][ziba-theme]
+
+[ziba-theme]: https://github.com/docore/vscode-extension-pack/tree/main/packages/ziba-theme
