@@ -1,0 +1,52 @@
+{
+	"name": "docore-ziba-theme",
+	"displayName": "docore/ziba-theme",
+	"description": "collection of ziba theme (docore edition)",
+	"version": "1.0.0",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.78.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"publisher": "docore",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/docore/vscode-extension-pack"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "z | One Dark Pro",
+				"uiTheme": "vs-dark",
+				"path": "./themes/one-dark-pro.json"
+			},
+			{
+				"label": "z | One Dark Pro (mix)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/one-dark-pro.mix.json"
+			},
+			{
+				"label": "z | One Dark Pro (darker)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/one-dark-pro.darker.json"
+			},
+			{
+				"label": "z | One Dark Pro (flat)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/one-dark-pro.flat.json"
+			},
+			{
+				"label": "z | Ra Focus",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ra-focus.json"
+			},
+			{
+				"label": "z | Head In The Clouds",
+				"uiTheme": "vs-dark",
+				"path": "./themes/head-in-the-clouds.json"
+			}
+		]
+	}
+}
