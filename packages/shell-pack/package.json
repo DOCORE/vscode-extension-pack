@@ -1,8 +1,8 @@
 {
 	"name": "docore-shell-pack",
 	"displayName": "docore/shell-pack",
-	"description": "shell language extension pack (docore edition)",
-	"version": "1.0.1",
+	"description": "shell/bash extension pack (docore edition)",
+	"version": "1.0.2",
 	"license": "MIT",
 	"engines": {
 		"vscode": "^1.77.0"
