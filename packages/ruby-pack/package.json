@@ -2,7 +2,7 @@
 	"name": "docore-ruby-pack",
 	"displayName": "docore/ruby-pack",
 	"description": "ruby language extension pack (docore edition)",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"license": "MIT",
 	"engines": {
 		"vscode": "^1.77.0"
@@ -15,7 +15,19 @@
 		"type": "git",
 		"url": "https://github.com/docore/vscode-extension-pack"
 	},
+	"homepage": "https://github.com/DOCORE/vscode-extension-pack/blob/main/packags/ruby-pack/README.md",
+	"readme": "https://github.com/DOCORE/vscode-extension-pack/blob/main/packages/ruby-pack/README.md",
+	"markdown": "github",
 	"icon": "/assets/icon.png",
+	"keywords": [
+		"ruby",
+		"erb",
+		"rufo",
+		"ruby-lang",
+		"gem",
+		"docore/pack",
+		"docore/ruby"
+	],
 	"extensionPack": [
 		"rebornix.ruby",
 		"Shopify.ruby-lsp",
